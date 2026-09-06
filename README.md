@@ -1,3 +1,5 @@
+![Jiggle Physics Tuner](https://github.com/user-attachments/assets/2da1610c-1a0c-42a7-9e5c-d9a292a293d6)
+
 # Jiggle Physics Tuner
 
 A free tool for **Monster Hunter Wilds** that lets you interactively tune the bust (chest) physics on a Ver.R-based armor mod — how strongly it jiggles and how far it can swing — with sliders, instead of hand-editing raw physics files.
