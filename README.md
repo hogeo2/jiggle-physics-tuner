@@ -23,6 +23,8 @@ This tool assumes you already have a working modding setup:
 
 - **Blender 4.5**, with [RE-Mesh-Editor](https://github.com/NSACloud/RE-Mesh-Editor) and [RE-Chain-Editor](https://github.com/NSACloud/RE-Chain-Editor) installed and enabled
 
+> ⚠️ **It has to be Blender 4.5 — specifically.** Not 5.x, not an older 4.x. RE-Chain-Editor isn't updated for other Blender versions, and running this tool against a mismatched one doesn't always fail loudly: it can silently apply the physics changes incorrectly, or drop them entirely, instead of crashing outright. Grab 4.5 here if you don't already have it: https://www.blender.org/download/releases/4-5/
+
 That's it — unlike some other tools built the same way, this one doesn't need Monster Hunter Wilds' extracted game data, 7-Zip, or WinRAR. It only edits a chain2 physics file already inside an unpacked mod folder.
 
 Full setup and usage instructions are included in **How to Use.html** inside the download.
